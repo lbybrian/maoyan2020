@@ -1,0 +1,14 @@
+module.exports={
+	devServer:{
+		//自启动
+		open:true,
+		port:8080,
+		//反向代理解决调用接口跨域
+		proxy:{
+			'/api':{
+				target:'http://39.97.33.178',
+				changeOrigin:true
+			}
+		}
+	}
+}

@@ -1,0 +1,29 @@
+/**该描述已失效*****该Nodejs下的maoyan2020文件夹为Git clone来自GitHub下的项目文件
+miao文件夹为之后本地创建。******该描述已失效/
+
+推送到远程：
+Git remote  没有就创建个origin 仓库
+Git add.     本次操作系统自动避开miao项目下的nodemodule文件件（！）
+Git commit -“‏内容”
+Git push origin master 成功
+
+2020/4/2实现city部分点击出现，渲染过程保留（需要最后进一步练习）
+
+2020/4/11mao0320后端相关操作：（miaoserver）
+1.挂载MongoDB：
+mongod --dbpath=E:\Nodejs\maoyan2020\miaoserver\db
+2.打开数据库：
+E:\Nodejs\maoyan2020\miaoserver>npm start
+3.测试接口：
+get/post？？
+
+
+
+
+
+
+
+
+
+
+
