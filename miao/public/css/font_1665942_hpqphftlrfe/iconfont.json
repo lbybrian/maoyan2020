@@ -1,0 +1,65 @@
+{
+  "id": "1665942",
+  "name": "20200302",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4710431",
+      "name": "下拉箭头",
+      "font_class": "pull_down",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "5005011",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "1072036",
+      "name": "影院",
+      "font_class": "yingyuan",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "3468345",
+      "name": "影院",
+      "font_class": "yingyuan1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8145765",
+      "name": "我 的",
+      "font_class": "wode",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "8973357",
+      "name": "我 的",
+      "font_class": "wode1",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "10516267",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "12887354",
+      "name": "电影",
+      "font_class": "dianying1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
